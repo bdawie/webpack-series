@@ -1,0 +1,11 @@
+.click-button{
+    background-color: cyan;
+    font-size: 2em;
+    color: white;
+    outline: darksalmon;
+
+}
+.click-button:hover{
+    background-color: turquoise;
+    color: snow;
+}
