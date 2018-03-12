@@ -1,3 +1,5 @@
+import '../css/main.scss';
+import {RandomGenerator} from './random-generator';
 
 const randomInteger = document.querySelector('#randomInteger');
 const randomRange = document.querySelector('#randomRange');
